@@ -1,0 +1,1271 @@
+fileFormatVersion: 2
+guid: 86b3e3b3735eeb441ac7d61ebac33462
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4978022876346820920
+    second: T_Icons_Symbols_0
+  - first:
+      213: -1142091609344815264
+    second: T_Icons_Symbols_1
+  - first:
+      213: 987530481503008512
+    second: T_Icons_Symbols_2
+  - first:
+      213: -2438254040944121504
+    second: T_Icons_Symbols_3
+  - first:
+      213: 2404935264937798083
+    second: T_Icons_Symbols_4
+  - first:
+      213: -1276379355081351857
+    second: T_Icons_Symbols_5
+  - first:
+      213: 2430872655903610486
+    second: T_Icons_Symbols_6
+  - first:
+      213: -6085024318975518674
+    second: T_Icons_Symbols_7
+  - first:
+      213: -391534672752688461
+    second: T_Icons_Symbols_8
+  - first:
+      213: -1702323304722967190
+    second: T_Icons_Symbols_9
+  - first:
+      213: -97170702732097156
+    second: T_Icons_Symbols_10
+  - first:
+      213: -6445806847923238688
+    second: T_Icons_Symbols_11
+  - first:
+      213: 8082176944395161995
+    second: T_Icons_Symbols_12
+  - first:
+      213: -4070590594202216327
+    second: T_Icons_Symbols_13
+  - first:
+      213: -3292098620016702135
+    second: T_Icons_Symbols_14
+  - first:
+      213: -6390711116364110182
+    second: T_Icons_Symbols_15
+  - first:
+      213: 2336872175235584430
+    second: T_Icons_Symbols_16
+  - first:
+      213: -1452849552842331653
+    second: T_Icons_Symbols_17
+  - first:
+      213: -4466883067101590895
+    second: T_Icons_Symbols_18
+  - first:
+      213: 6628484541722022232
+    second: T_Icons_Symbols_19
+  - first:
+      213: -7464121896051255277
+    second: T_Icons_Symbols_20
+  - first:
+      213: -9166395270488897037
+    second: T_Icons_Symbols_21
+  - first:
+      213: 8792293468560655888
+    second: T_Icons_Symbols_22
+  - first:
+      213: -8957344162607062326
+    second: T_Icons_Symbols_23
+  - first:
+      213: -7080969150527718516
+    second: T_Icons_Symbols_24
+  - first:
+      213: -4709269188469613045
+    second: T_Icons_Symbols_25
+  - first:
+      213: 9031916751938620778
+    second: T_Icons_Symbols_26
+  - first:
+      213: -6345070731041307697
+    second: T_Icons_Symbols_27
+  - first:
+      213: 5866961560121329054
+    second: T_Icons_Symbols_28
+  - first:
+      213: 684815811596020586
+    second: T_Icons_Symbols_29
+  - first:
+      213: 2710437689090247040
+    second: T_Icons_Symbols_30
+  - first:
+      213: -5457325649757303931
+    second: T_Icons_Symbols_31
+  - first:
+      213: 5164056881216106381
+    second: T_Icons_Symbols_32
+  - first:
+      213: -9167247674703277617
+    second: T_Icons_Symbols_33
+  - first:
+      213: -7760625257854007079
+    second: T_Icons_Symbols_34
+  - first:
+      213: -3897449554630689342
+    second: T_Icons_Symbols_35
+  - first:
+      213: 8683835987605180366
+    second: T_Icons_Symbols_36
+  - first:
+      213: -3217529582491756162
+    second: T_Icons_Symbols_37
+  - first:
+      213: -5295061968015623955
+    second: T_Icons_Symbols_38
+  - first:
+      213: 2124215131788835675
+    second: T_Icons_Symbols_39
+  - first:
+      213: 7676474783420044803
+    second: T_Icons_Symbols_40
+  - first:
+      213: -6844948075800229990
+    second: T_Icons_Symbols_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_Icons_Gold
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1764
+        width: 279
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67207354e1707cb48a1975a01ab1ad8a
+      internalID: 1926642313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Heart_Full
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1776
+        width: 266
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c0c077142acb847b9fbb4dddc645e6
+      internalID: -1033683573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Heart_BrokenLeft
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1784
+        width: 181
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f55ee64874bc4a89f424e2fb6d006
+      internalID: -771424439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Heart_BrokenRight
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1782
+        width: 202
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee500b842b776945a1ffa14aa15ca42
+      internalID: 1209872773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Star
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1771
+        width: 271
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b4e942b4320a4e80f1ca0c35659fa
+      internalID: -392663296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_King
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1762
+        width: 260
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ac179d742da54e983da5c3d374420
+      internalID: -1228491448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_CircularBackground_Blue
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1784
+        width: 219
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea868b5e907e939409b2ccde0e4036df
+      internalID: 16976647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Menu_Market
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1451
+        width: 217
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16fef0e22b92b4fb0a68730ac92801
+      internalID: 1393031993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Menu_House
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1458
+        width: 256
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d0f449fac0d64b9f169ff7e15dfeb
+      internalID: 1322739702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Menu_Book
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1459
+        width: 218
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77c7cbfda0e4fd4ba54eeefc953ed5d
+      internalID: 1986823061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Music
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1308
+        width: 162
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f0d29d4d84694ea1e66629d128056
+      internalID: -227050370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Audio
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1307
+        width: 267
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b908a527c19aa40a9a91889dac04cf
+      internalID: -1224053826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_CircularBackground_Green
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1530
+        width: 252
+        height: 241
+      alignment: 9
+      pivot: {x: 0.49052018, y: 0.50326043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df043f618e51d3844a0cde56b16dd5d6
+      internalID: -1427666530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Vibration
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1025
+        width: 261
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d26e9491aaeb904cb289dec01161bb7
+      internalID: -866464267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_CircularBackground_Red
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1284
+        width: 252
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f5dbe196048545b5843d17a46d6b7
+      internalID: 357088207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_VideoAdsReward
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1139
+        width: 260
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3ed6f433b5c64cb53ddd98c54c4d4
+      internalID: 10001758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Notifications
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1017
+        width: 186
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7d4c172f730b4589e83f389008f3b
+      internalID: -1164607203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Decoration_ButtonSparkle
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 973
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d209d5cc8eb6624389c7e3a1b457b5f
+      internalID: 635458115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_BackgroundResources
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 300
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 51, y: 0, z: 62, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4500a70bdabdcb3439ddae3dbacb2914
+      internalID: 827815589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_BackgroundPanel_DarkBlue
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 772
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 42, z: 34, w: 33}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132cde0a8b10d814cb055ec875564e25
+      internalID: -1322046130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Toggle_ON
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 887
+        width: 197
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c50e9759c7d14cac0ff1b43d6aba6
+      internalID: 144865419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Toggle_On_OnHover
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 887
+        width: 196
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5207804bbb0b45b560d0d83b58e63
+      internalID: -1864142721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Button_Settings_LightBlue
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 841
+        width: 276
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 49, y: 31, z: 56, w: 28}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb44402c134b2409369bb6c3412921
+      internalID: 1972044303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Toggle_OFF
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 757
+        width: 200
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd7c4a3074dcf4582c6f4529234dd6
+      internalID: 344128376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Settings_Toggle_Off_OnHover
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 759
+        width: 198
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cae88bcede1c7498858a76ebd3eeb5
+      internalID: -44314647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_GenericButton_Green
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 750
+        width: 273
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 27, z: 45, w: 29}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f947d5292de7cf45abcd592bc120b2e
+      internalID: 1048853043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_BackgroundPanel_LightBlue
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 510
+        width: 252
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 29, z: 30, w: 21}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe243ddd63159428cc59b84e06afe5
+      internalID: 1496464839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_GenericButton_Blue
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 659
+        width: 273
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 30, z: 46, w: 27}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2831c3189bcc6c4b91847e41bb30e03
+      internalID: -2114375112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Panel_Icon_Close
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 222
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3048d69ed26ff2b4bb80f1eed1d0f67c
+      internalID: 934944760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Language_UK
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 348
+        width: 238
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58486e2494ab5e3489b60b68b370872f
+      internalID: 2074292235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Language_IT
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 349
+        width: 235
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c352c4ed0e4806648824c86a600e38f9
+      internalID: 804146402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Symbol_Minus
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 170
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ac8c1e1e02764fb487ac2282a0527
+      internalID: -1672148138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Symbol_Home
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8cf0203482c604990b7fea7de780c2
+      internalID: -1377270264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Symbol_Submenu
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 143
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53435089636379e40ac23ba19a0c45f2
+      internalID: -108155882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Language_UA
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 187
+        width: 237
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc558fbeaa0919241981fd2f0964a4c1
+      internalID: -1429642716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Language_CH
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 185
+        width: 237
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8490f357a5e04f419180208f8651fcf
+      internalID: 1593187316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Symbols_Plus
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12e8498c4df1441b363a08ad97e697
+      internalID: -876000467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Symbol_Settings
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb638d19161f63748b40c6fdc6ce69fa
+      internalID: 373845803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_BottomMenu_Background
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 511
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46220dcdaae16924ba7f9a349e725d54
+      internalID: -253785664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Icons_Lock
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 358
+        width: 141
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2aac2fd73d584ba6d94c5a3e8bd25
+      internalID: -19559951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c76fafa4c2920da4c877f2843d580efd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      S_BackgroundPanel_DarkBlue: -1322046130
+      S_BackgroundPanel_LightBlue: 1496464839
+      S_BackgroundResources: 827815589
+      S_BottomMenu_Background: -253785664
+      S_Button_Settings_LightBlue: 1972044303
+      S_Decoration_ButtonSparkle: 635458115
+      S_GenericButton_Blue: -2114375112
+      S_GenericButton_Green: 1048853043
+      S_Icons_CircularBackground_Blue: 16976647
+      S_Icons_CircularBackground_Green: -1427666530
+      S_Icons_CircularBackground_Red: 357088207
+      S_Icons_Gold: 1926642313
+      S_Icons_Heart_BrokenLeft: -771424439
+      S_Icons_Heart_BrokenRight: 1209872773
+      S_Icons_Heart_Full: -1033683573
+      S_Icons_King: -1228491448
+      S_Icons_Lock: -19559951
+      S_Icons_Menu_Book: 1986823061
+      S_Icons_Menu_House: 1322739702
+      S_Icons_Menu_Market: 1393031993
+      S_Icons_Settings_Audio: -1224053826
+      S_Icons_Settings_Music: -227050370
+      S_Icons_Settings_Notifications: -1164607203
+      S_Icons_Settings_Toggle_OFF: 344128376
+      S_Icons_Settings_Toggle_ON: 144865419
+      S_Icons_Settings_Toggle_Off_OnHover: -44314647
+      S_Icons_Settings_Toggle_On_OnHover: -1864142721
+      S_Icons_Settings_Vibration: -866464267
+      S_Icons_Star: -392663296
+      S_Icons_VideoAdsReward: 10001758
+      S_Language_CH: 1593187316
+      S_Language_IT: 804146402
+      S_Language_UA: -1429642716
+      S_Language_UK: 2074292235
+      S_Panel_Icon_Close: 934944760
+      S_Symbol_Home: -1377270264
+      S_Symbol_Minus: -1672148138
+      S_Symbol_Settings: 373845803
+      S_Symbol_Submenu: -108155882
+      S_Symbols_Plus: -876000467
+      T_Icons_Symbols_15: -414699148
+      T_Icons_Symbols_16: 1005258965
+      T_Icons_Symbols_18: -1113759619
+      T_Icons_Symbols_19: -570226048
+      T_Icons_Symbols_20: 1014148895
+      T_Icons_Symbols_22: 10338104
+      T_Icons_Symbols_23: 305657365
+      T_Icons_Symbols_24: -1235118968
+      T_Icons_Symbols_25: 1374776791
+      T_Icons_Symbols_26: 64254066
+      T_Icons_Symbols_27: 1911246108
+      T_Icons_Symbols_28: 137313140
+      T_Icons_Symbols_29: 1092210133
+      T_Icons_Symbols_31: 1620692180
+      T_Icons_Symbols_32: 940786588
+      T_Icons_Symbols_34: 2035396525
+      T_Icons_Symbols_35: -1890192428
+      T_Icons_Symbols_36: -36483854
+      T_Icons_Symbols_37: -994923356
+      T_Icons_Symbols_38: -626863937
+      T_Icons_Symbols_39: 1115596388
+      T_Icons_Symbols_40: -1616658294
+      T_Icons_Symbols_41: -1110814348
+      T_Icons_Symbols_42: 210779305
+      T_Icons_Symbols_43: -170235106
+      T_Icons_Symbols_44: -1504167876
+      T_Icons_Symbols_45: 270816429
+      T_Icons_Symbols_47: -632253690
+      T_Icons_Symbols_5: 1957225866
+      T_Icons_Symbols_8: -1463200814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
