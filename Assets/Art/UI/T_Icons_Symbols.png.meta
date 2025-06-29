@@ -1167,7 +1167,7 @@ TextureImporter:
         width: 141
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1176,6 +1176,28 @@ TextureImporter:
       bones: []
       spriteID: f5b2aac2fd73d584ba6d94c5a3e8bd25
       internalID: -19559951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Header_01
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 134
+        width: 510
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fbaf0c32007d4b91e2bbafe29e036
+      internalID: -2038476482
       vertices: []
       indices: 
       edges: []
@@ -1234,6 +1256,7 @@ TextureImporter:
       S_Symbol_Settings: 373845803
       S_Symbol_Submenu: -108155882
       S_Symbols_Plus: -876000467
+      T_Header_01: -2038476482
       T_Icons_Symbols_15: -414699148
       T_Icons_Symbols_16: 1005258965
       T_Icons_Symbols_18: -1113759619

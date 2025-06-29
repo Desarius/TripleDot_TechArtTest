@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89bc5b87-18dd-4325-9106-3c63e674ed04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Editor/ShowAsPassDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Editor/ShowAsPassDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Editor/Unified.Universal.Blur.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Editor/Unified.Universal.Blur.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/LICENSE.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Materials/UniversalBlurUI.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Materials/UniversalBlurUI.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/BlurConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/BlurConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/BlurPasses.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/BlurPasses.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/BlurType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/BlurType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer/IWrappedCommandBuffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer/IWrappedCommandBuffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer/WrappedCommandBuffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer/WrappedCommandBuffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer/WrappedUnsafeCommandBuffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/CommandBuffer/WrappedUnsafeCommandBuffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/Constants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/Constants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData/IPassData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData/IPassData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData/LegacyPassData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData/LegacyPassData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData/RenderGraphPassData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/PassData/RenderGraphPassData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/ScaleBlurWith.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/ScaleBlurWith.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/ShowAsPass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/ShowAsPass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/Unified.UniversalBlur.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/Unified.UniversalBlur.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/UniversalBlurFeature.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/UniversalBlurFeature.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/UniversalBlurPass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Runtime/UniversalBlurPass.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders/Blur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders/Blur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders/Common.hlsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders/Common.hlsl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders/TintedBlurUI.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/Shaders/TintedBlurUI.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Unified-Universal-Blur-0.7.3/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.19beta1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2zBm2hHgaFQ6RO4o7BRdicL1Zew" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/dvisa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
